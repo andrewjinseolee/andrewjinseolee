@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Lee</h1>
 <h3 align="center">Some damned developer that lives in this damn world.</h3>
 
-- 🌱 I’m currently learning **javascript, html, css, and c-sharp.**
+- 🌱 I’m learning **javascript, html, css, and c-sharp.**
 
 - 📫 Reach me on Discord at **EyeLord#4071**
 
