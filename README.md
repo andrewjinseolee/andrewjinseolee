@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andrew Lee</h1>
-<h3 align="center">Some damned developer that lives in this damn world.</h3>
+<h1 align="left">Hi 👋, I'm Andrew Lee</h1>
+<h3 align="left">Some damned developer that lives in this damn world.</h3>
 
 - 🌱 I’m learning **javascript, html, css, and c-sharp.**
 
