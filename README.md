@@ -3,7 +3,7 @@
 
 - 🌱 I’m learning **javascript, html, css, and c-sharp.**
 
-- 📫 Reach me on Discord at **EyeLord#4071**
+- 📫 Reach me on Discord at **andrexc#4071**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
